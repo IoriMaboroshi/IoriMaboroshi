@@ -5,7 +5,7 @@
   </a>
 
 <!-- Just image-->
-<div align="center"><img src="https://b.chwin.asia/wp-content/uploads/2022/11/1668040163-22-11-10-082846.png" alt=" " /></div>
+<div align="center"><img src="https://b.chwin.asia/wp-content/uploads/2022/11/lab.magiconch.com90s-time-machine-1667805977028.jpg"></div>
 
 <!-- 个人资料徽标 -->
 <div align="center">
@@ -64,7 +64,7 @@
 </div>
 
 <!-- Just image-->
-<div align="center"> <img src="https://metrics.lecoq.io/IoriMaboroshi?template=classic&config.timezone=Asia%2FShanghai"> </div>
+<div align="center"> <img src="https://b.chwin.asia/wp-content/uploads/2022/11/1668047436-lab.magiconch.com90s-time-machine-1667806014954.jpg"> </div>
 <div align="center"> <img src="https://metrics.lecoq.io/IoriMaboroshi?template=classic&config.timezone=Asia%2FShanghai"> </div>
 <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=IoriMaboroshi&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IoriMaboroshi&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
