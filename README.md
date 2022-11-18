@@ -1,57 +1,45 @@
-<!-- 动态打字效果 -->
-<h1 align="center">
-  <a href="https://www.chwin.asia/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=よ！ここは伊織幻！;一個簡簡單單的高中生！!&center=true&size=27">
-  </a>
+<!-- https://github.com/IoriMaboroshi -->
 
-<!-- Just image-->
-<div align="center"><img src="https://b.chwin.asia/wp-content/uploads/2022/11/lab.magiconch.com90s-time-machine-1667805977028.jpg"></div>
+<header background="https://b.chwin.asia/wp-content/uploads/2022/11/lab.magiconch.com90s-time-machine-1667805977028.jpg">
+  <h1 align="center">
+    <a href="https://www.chwin.asia" alt="logo" ><img src="https://www.chwin.asia//images/tx.jpg" width="150" /></a>
+  </h1>
+  <br><br>
+  <h3 align="center"><ima src="header.svg" /></h2>
+  <h4 align="center">ここは伊緻幻</h4>
+  <h5 align="center">
+    -&emsp;<a href=https://b.chwin.asia/>Blog</a>&emsp;-&emsp;
+    <a href="https://twitter.com/IoriMaboroshi"twitter</a>&emsp;-&emsp;
+    <a href="https://weibo.com/iorimaboroshi"Weibo</a>&emsp;-
+    <br><br>
+    <img align="center" src="https://img.shields.io/badge/WHO%20?-ME-%23ff69b4" />&emsp;
+    <img align="center" src="https://komarev.com/ghpvc/?username=IoriMaboroshi&color=red" />&emsp;
+    <img align="center" src="https://img.shields.io/badge/NIGHT-DAY-white" />&emsp;
+  </h5>
+</header>
 
-<!-- 个人资料徽标 -->
-<div align="center">
-  <a href="https://www.chwin.asia/"><img src="https://img.shields.io/badge/website-Website-blue"></a>&emsp;
-  <a href="https://b.chwin.asia/"><img src="https://img.shields.io/badge/website-Blog-pink"></a>&emsp;
-<!-- 访客数统计徽标 -->
-<img src="https://visitor-badge.glitch.me/badge?page_id=IoriMaboroshi" alt="访客统计" /></div>
+<br>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=IoriMaboroshi&show_icons=true&icon_color=fff&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="150" />
+
+* ☀️ Daytime - Writing
   
-<!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div>
+* 🌙 Night - Playing in dream
   
+* 💌 Email - thechwinlyu@outlook.com
 
+---
 #  🙋 Hello
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IoriMaboroshi&layout=compact&theme=dracula" height="150" />
 
 <p>&nbsp;&nbsp;ここは伊織幻！ 一个简简单单的高中生，一个业余PV师。</p>
 <p>&emsp;&emsp;坐在角落</p>
 <p>&emsp;&emsp;看着万千星辰</p>
 
-💪 正在学习: 
-
-&emsp;&emsp;
-![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
+<!-- 贪吃蛇代码贡献图 -->
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div>
   
-🧠 计划学习:
-
-&emsp;&emsp;
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=style=flat-square&logo=jquery&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
-![Java](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
-  
-🧰 常用的工具:
-
-&emsp;&emsp; 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Google Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)
-![Edge](https://img.shields.io/badge/Edge-0078D7?style=flat-square&logo=Microsoft-edge&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
 
 <!-- Gif -->
 <div align="center">
