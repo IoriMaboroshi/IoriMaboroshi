@@ -1,17 +1,19 @@
 <!-- https://github.com/IoriMaboroshi -->
-
 <div>
-  <div align="center">
-  <a href="https://www.chwin.asia" alt="logo"><img src="[lab.magiconch.com][90s-time-machine]-1667800846069.jpg" width="150" /></a>
-  <img src="header.svg" align="right"/>
-  </div>
-  <h4 align="center">ここは伊緻幻</h4>
+<div align="center">
+  <a href="https://www.chwin.asia" alt="logo"><img src="12.jpg" width=92% /></a>
+  <img src="header.svg" width=150%/>
+  <img src="head.svg" width=80%/>
+</div>
+
+---
+
   <h5 align="center">
-    -&emsp;<a href=https://b.chwin.asia/>Blog</a>&emsp;-&emsp;
+    -&emsp;<a href="https://b.chwin.asia">Blog</a>&emsp;-&emsp;
     <a href="https://twitter.com/IoriMaboroshi">twitter</a>&emsp;-&emsp;
     <a href="https://weibo.com/iorimaboroshi">Weibo</a>&emsp;-
     <br><br>
-    <img align="center" src="https://img.shields.io/badge/WHO?-ME-white" />&emsp;
+    <img align="center" src="https://img.shields.io/badge/DAY-NIGHT-white" />&emsp;
     <img align="center" src="https://komarev.com/ghpvc/?username=IoriMaboroshi&color=red" />&emsp;
     <img align="center" src="https://img.shields.io/badge/NIGHT-DAY-white" />&emsp;
   </h5>
