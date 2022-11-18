@@ -37,16 +37,18 @@
 
 #  🙋 Hello
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IoriMaboroshi&layout=compact&theme=dracula" height="150" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IoriMaboroshi&layout=compact&theme=dracula" height="130" />
 
 <p>一个简简单单的高中生，一个业余PV师。</p>
 <p>坐在角落</p>
 <p>看着万千星辰</p>
+<p>轻声叹息</p>
+  
 
-
+---
   
 <div align="center">
-  <img src="https://metrics.lecoq.io/IoriMaboroshi?template=classic&config.timezone=Asia%2FShanghai" align="right">
+  <img src="https://metrics.lecoq.io/IoriMaboroshi?template=classic&config.timezone=Asia%2FShanghai" align="right" height="400">
   <!-- Gif -->
   <div align="left">
    <img alt-"html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" title="html">
