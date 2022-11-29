@@ -26,11 +26,11 @@
 
 * ☀️ Daytime - Writing
   
-* 🌙 Night - Playing in dream
+* 🌙 Night - Visting in dream
   
 * 💌 Email - thechwinlyu@outlook.com
 
-* ⛪ Live in China
+* 👩🏻‍💻 Language - 中文,Englishi,日本語
 </div>
 
 ---
