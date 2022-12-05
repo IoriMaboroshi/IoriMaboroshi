@@ -42,7 +42,7 @@
 <p>一个简简单单的高中生，一个业余PV师。</p>
 <p>坐在角落</p>
 <p>看着万千星辰</p>
-<p>轻声叹息 -LGBTQIA🏳️‍🌈-</p>
+<p>轻声叹息 </p><p align="center">-&emsp;&emsp;<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Transgender_Pride_flag.svg/2560px-Transgender_Pride_flag.svg.png">LGBTQIA🏳️‍🌈</a>&emsp;&emsp;-
   
 
 ---
