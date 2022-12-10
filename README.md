@@ -30,7 +30,7 @@
   
 * 💌 Email - thechwinlyu@outlook.com
 
-* 👩🏻‍💻 Language - 中文,English,日本語
+* 👩🏻‍💻 Language - 中文,English,日本語,粵語（learning
 </div>
 
 ---
