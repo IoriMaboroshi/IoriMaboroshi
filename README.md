@@ -11,7 +11,7 @@
   <h1 align="center">-&emsp;<a href="https://www.chwin.asia">MY WEB</a>&emsp;-</h1>
 
   <h5 align="center">
-    -&emsp;<a href="https://b.chwin.asia">Technical Blog</a>&emsp;-&emsp;
+    -&emsp;
     <a href="https://twitter.com/IoriMaboroshi">Twitter</a>&emsp;-&emsp;
     <a href="https://blog.chwin.asia">Living Blog</a>&emsp;-
     <br><br>
