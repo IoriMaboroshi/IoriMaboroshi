@@ -11,9 +11,6 @@
   <h1 align="center">-&emsp;<a href="https://www.chwin.asia">MY WEB</a>&emsp;-</h1>
 
   <h5 align="center">
-    -&emsp;
-    <a href="https://twitter.com/IoriMaboroshi">Twitter</a>&emsp;-&emsp;
-    <a href="https://blog.chwin.asia">Living Blog</a>&emsp;-
     <br><br>
     <img align="center" src="https://img.shields.io/badge/DAY-NIGHT-white" />&emsp;
     <img align="center" src="https://komarev.com/ghpvc/?username=IoriMaboroshi&color=red" />&emsp;
