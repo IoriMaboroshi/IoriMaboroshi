@@ -36,10 +36,10 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IoriMaboroshi&layout=compact&theme=dracula" height="130" />
 
-<p>一个简简单单的高中生，一个业余PV师。</p>
-<p>坐在角落</p>
-<p>看着万千星辰</p>
-<p>轻声叹息 </p>
+<p>普通男大，一个业余PV师，非计算机相关专业，一切始于兴趣。</p>
+<p>🌠</p>
+<p>🪐</p>
+<p>❤️</p>
 
 ---
 
